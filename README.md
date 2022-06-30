@@ -1,10 +1,10 @@
 <div id="header" align="right">
   <img src="https://media.giphy.com/media/eKiI67RMFbnxa7WuKC/giphy.gif" width="155"/>
   <div id="badges" align="right">
-    <a href = "https://www.instagram.com/birdpersonn/">
+    <a href = "https://www.linkedin.com/in/chanel-carpenter-594a6b71/">
       <img src="https://img.shields.io/badge/LinkedIn-74a2ed?logo=linkedin&logoColor=white?style=plastic" alt="LinkedIn Badge"/>
     </a>
-    <a href = "https://www.linkedin.com/in/chanel-carpenter-594a6b71/">
+    <a href = "https://www.instagram.com/birdpersonn/">
       <img src="https://img.shields.io/badge/Instagram-bc9eeb?logo=linkedin&logoColor=white?style=plastic" alt="LinkedIn Badge"/>
     </a>
   </div>
