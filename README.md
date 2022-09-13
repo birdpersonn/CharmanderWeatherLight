@@ -46,7 +46,7 @@ modify a charmander plushie to tell the temperature outside. the flame on his ta
 
 #### get the pi ready
 1. set up your pi
-   * there are many ways to get started, i chose to run headless on my macbook. if you have no idea what that means, don't worry, neither did i, just look up how to get a pi running and go through whichever method seems easiest. 
+   * there are many ways to get started, i chose to run headless on my macbook. if you have no idea what that means, don't worry, neither did i, just look up how to get a pi running and go through whichever method you feel most comfortable with. 
 2. get your pi connected to wifi
    * some pi models do not come with a built-in wifi option, so you might need a dongle or attachment for this. 
    * my pi zero w was very easy to set up (following a tutorial of course) with nothing extra needed!
